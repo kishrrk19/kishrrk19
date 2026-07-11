@@ -8,7 +8,7 @@ After working for 5 years at Japanese diplomatic missions as a logistics and tec
 - Interested in building useful, reliable, and maintainable software by applying clean code and SOLID principles
 - Certified in Agile methodology
 - Based in the Paris area and currently open to Java backend or Java Full Stack opportunities
-- Languages: Japanese · French · English
+- Languages: Japanese · French (niveau professionnel C1) · English
 
 I am looking to grow in a challenging environment and contribute to meaningful projects that have a positive impact on people's lives.
 
