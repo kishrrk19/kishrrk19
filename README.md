@@ -22,7 +22,7 @@ Feel free to contact me :
 | Project | Description | Stack |
 |---|---|---|
 | **[Girls in Tech](https://github.com/kishrrk19/girls-in-tech)** | Web application that helps middle and high school girls choose their higher education path in STEM. | Java 21 · Spring Boot · Angular · PostgreSQL · JWT |
-| **[Nearest Store API](YOUR_PROJECT_URL)** | REST API that finds the nearest store offering a requested phone model using geographic coordinates | Java · Spring Boot · Haversine algorithm · Swagger |
+| **[Phone Stock API](https://github.com/kishrrk19/phone-stock)** | REST API that finds the nearest store offering a requested phone model using geographic coordinates | Java · Spring Boot · Haversine algorithm · Swagger |
 
 ---
 ## ✂️ Languages and tools
